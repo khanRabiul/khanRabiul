@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khan Rabiul Islam</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<h4 align="center">  a passionate front-end developer dedicated to blending creativity and technology to craft immersive digital experiences. From sleek interfaces to seamless interactions, I thrive on transforming ideas into visually stunning realities. With a focus on innovation and collaboration, I work closely with clients and teams to deliver cutting-edge solutions that drive meaningful impact. Together, let's shape tomorrow's web and create something extraordinary! </h4>
+<h4 align="center">  A passionate front-end developer dedicated to blending creativity and technology to craft immersive digital experiences. From sleek interfaces to seamless interactions, I thrive on transforming ideas into visually stunning realities. With a focus on innovation and collaboration, I work closely with clients and teams to deliver cutting-edge solutions that drive meaningful impact. Together, let's shape tomorrow's web and create something extraordinary! </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanrabiul&label=Profile%20views&color=0e75b6&style=flat" alt="khanrabiul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanrabiul" alt="khanrabiul" /></a> </p>
